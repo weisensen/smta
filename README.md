@@ -1,4 +1,4 @@
-# Serban's Diploma (public)
+# Serban's Diploma (public) 
 My bachelor degree project source files.
 
 ## Overview
@@ -83,4 +83,4 @@ The project uses the following open-source libraries (licenses in the [licenses]
 + OpenUI5 https://github.com/SAP/openui5/
 + Grammatica https://github.com/cederberg/grammatica
 + Jackson https://github.com/FasterXML/jackson
-+ TinyGPS https://github.com/mikalhart/TinyGPS 
++ TinyGPS https://github.com/mikalhart/TinyGPS
